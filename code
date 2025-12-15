@@ -1,3 +1,4 @@
+data/exportacoes.csv
 import pandas as pd
 
 data = {
